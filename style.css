@@ -1,6 +1,41 @@
-body{
+section.ING{
+
     margin-left: 40%;
     float: right;
     float: left;
-    padding-top: 10%;
+    padding-top: 8%;
+    
+
+}
+section{
+    clear: both;
+}
+section.Bankinter{
+margin-left: 20%;
+}
+.separa{
+    margin: 10px;
+    text-align: center;
+    font-size: 150%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.separa2{
+    margin: 12px;
+    width: 41%;
+    text-align: center;
+    font-size: 150%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  
+}
+section.hut{
+    padding-top: 20px;
+    text-align: center;
+    margin-left: 42%;
+    margin-right: 42%;
+}
+p.left{
+    text-align: left;
 }
